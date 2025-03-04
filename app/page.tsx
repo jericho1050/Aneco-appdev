@@ -32,7 +32,7 @@ export default function HomePage() {
               <div className='hidden md:flex space-x-6'>
                 <NavLink href='/about'>About Us</NavLink>
                 <NavLink href='/consumer'>Consumer Info</NavLink>
-                <NavLink href='/csr'>ANECO's CSR</NavLink>
+                <NavLink href='/csr'>ANECO&apos;s CSR</NavLink>
                 <NavLink href='/bid'>Invitation to Bid</NavLink>
                 <NavLink href='/agma'>AGMA</NavLink>
                 <NavLink href='/pspp'>PSPP</NavLink>
